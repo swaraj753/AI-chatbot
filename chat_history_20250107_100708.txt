@@ -1,0 +1,12 @@
+You: hi
+Bot: Hi there! How can I help you?
+
+You: what can you do?
+Bot: Hello! I am an AI-powered chatbot designed to provide assistance and guidance on various topics, including fitness, nutrition, and injury recovery.
+
+You: what protein suppliment is best for beginners?
+Bot: Good day! How can I be of service?
+
+You: search best protein suppliments
+Bot: I've opened a web search for 'best protein suppliments'.
+
